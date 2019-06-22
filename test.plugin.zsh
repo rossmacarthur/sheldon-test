@@ -1,3 +1,3 @@
 #!/usr/bin/env zsh
 
-# Nothing to see here!
+# No real feature here!
